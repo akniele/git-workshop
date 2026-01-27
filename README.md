@@ -1,3 +1,3 @@
-# Git workshop
+# Receipes
 
-This repository is a template for the NWO-I Advanced Git workshop.
+This repository contains cooking receipes. 
